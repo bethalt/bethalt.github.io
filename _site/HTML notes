@@ -1,0 +1,11 @@
+Creating paragraphs
+<p>This is<br>a para<br>graph with line breaks</p>
+Creating line breaks
+http://www.w3schools.com/html/html_paragraphs.asp
+
+Bullets
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
