@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Innovators' Practice 2015
+title:            Innovators' Practice/ Altringer/ 2015
 tagline:          'The Innovators Practice'
-description:      'Hub for <a href="http://bethaltringer.com/es21" target="_blank">ES21</a> course tools, schedule & content. Made by <a href="https://twitter.com/bethaltringer" target="_blank">@bethaltringer</a>.'
+description:      'Hub for <a href="http://bethaltringer.com/es21" target="_blank">IP2015</a> course content, schedule & tools.'
 url:              http://bethalt.github.io/
 
 author:
