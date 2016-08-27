@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Innovators' Practice/ Harvard/ Altringer/ 2015
+title:            Innovators' Practice/ Harvard/ Altringer/ 2016
 tagline:          'The Innovators Practice'
-description:      'Hub for <a href="http://bethaltringer.com/es21" target="_blank">IP2015</a> course content, schedule & tools.'
+description:      'Hub for <a href="http://desirabilitylab.com/es21" target="_blank">IP2016</a> course content, schedule & tools.'
 url:              http://bethalt.github.io/
 
 author:
   name:           'Beth Altringer'
-  url:            https://twitter.com/bethaltringer
+  url:            https://twitter.com/desirabilitylab
 
 paginate:         5
 
